@@ -1,7 +1,7 @@
 Rocket vs UFO
 =============
 
-Rocket Vs UFO is game built using java, that demonstrates inheritance, interfaces, and abstract classes.
+Rocket Vs UFO is game built using java, that demonstrates inheritance, interfaces, and abstract classes. Built off of the Cal Poly CPE-203 base code
 
 ![](screenshots/gameboard.PNG)
 
